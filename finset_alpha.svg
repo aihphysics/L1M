@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="198.44765mm"
+   height="27.461416mm"
+   viewBox="0 0 198.44765 27.461416"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="finset_alpha.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:clip-to-page="false"
+     inkscape:zoom="1.1013707"
+     inkscape:cx="443.53824"
+     inkscape:cy="11.349494"
+     inkscape:window-width="1898"
+     inkscape:window-height="1042"
+     inkscape:window-x="10"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.5576211,-2.1476175)">
+    <g
+       id="g1"
+       transform="rotate(180,41.373516,14.268407)">
+      <path
+         id="path1"
+         style="fill:none;stroke:#000000;stroke-width:0.352777"
+         d="m 81.136794,26.212807 h -50 L 1.1367944,1.2128073 Z" />
+    </g>
+    <path
+       id="path1-1"
+       style="fill:none;stroke:#000000;stroke-width:0.352777"
+       d="M 81.67055,29.432645 H 31.670543 L 1.6705423,4.4326433 Z" />
+    <g
+       id="g2"
+       transform="rotate(180,65.103288,10.035151)">
+      <path
+         id="path1-3"
+         style="fill:none;stroke:#000000;stroke-width:0.352777"
+         d="m 69.525007,17.746296 h -50 l -30,-24.9999997 z" />
+    </g>
+    <path
+       id="path1-1-1"
+       style="fill:none;stroke:#000000;stroke-width:0.352777"
+       d="M 140.02943,29.432646 H 90.029421 l -30,-25.000003 z" />
+    <g
+       id="g2-6"
+       transform="rotate(180,94.708678,10.035151)">
+      <path
+         id="path1-3-3"
+         style="fill:none;stroke:#000000;stroke-width:0.352777"
+         d="m 69.525007,17.746296 h -50 l -30,-24.9999997 z" />
+    </g>
+    <path
+       id="path1-1-1-2"
+       style="fill:none;stroke:#000000;stroke-width:0.352777"
+       d="M 199.24021,29.432645 H 149.2402 l -30,-25.0000019 z" />
+  </g>
+</svg>
