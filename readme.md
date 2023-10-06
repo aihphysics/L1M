@@ -13,4 +13,6 @@ Hello! You've found my (other) rocket project! Minimum diameter!
 * Supersonic _potential_. (I really wouldn't recommend it).
 
 ## Current Schematic
-![Rocket Schematic](https://github.com/aihphysics/L1M/blob/main/L1M.png?raw=true)
+<p align="center">
+  <img src="https://github.com/aihphysics/L1M/blob/main/L1M.png?raw=true" />
+</p>
